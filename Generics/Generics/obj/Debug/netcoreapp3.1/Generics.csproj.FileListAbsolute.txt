@@ -1,0 +1,27 @@
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Liam\Desktop\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
